@@ -3,14 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities.builder;
+package com.entities.builder;
 
-import com.wookie.devteam.entities.Role;
+import com.entities.Role;
 
-/**
- *
- * @author wookie
- */
+
 public class RoleBuilder {
     private Role instance;
     

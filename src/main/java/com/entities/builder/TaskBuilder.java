@@ -3,16 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities.builder;
+package com.entities.builder;
 
-import com.wookie.devteam.entities.Project;
-import com.wookie.devteam.entities.Status;
-import com.wookie.devteam.entities.Task;
+import com.entities.Project;
+import com.entities.Status;
+import com.entities.Task;
 
-/**
- *
- * @author wookie
- */
+
 public class TaskBuilder {
     private Task instance;
     

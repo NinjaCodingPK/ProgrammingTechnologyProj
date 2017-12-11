@@ -3,14 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities.builder;
+package com.entities.builder;
 
-import com.wookie.devteam.entities.Status;
+import com.entities.Status;
 
-/**
- *
- * @author wookie
- */
+
 public class StatusBuilder {
     private Status instance;
 

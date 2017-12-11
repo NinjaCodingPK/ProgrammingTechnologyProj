@@ -3,17 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities.builder;
+package com.entities.builder;
 
-import com.wookie.devteam.entities.Person;
-import com.wookie.devteam.entities.PersonProject;
-import com.wookie.devteam.entities.Project;
+import com.entities.Person;
+import com.entities.PersonProject;
+import com.entities.Project;
 import java.util.Date;
 
-/**
- *
- * @author wookie
- */
+
 public class PersonProjectBuilder {
     private PersonProject instance;
     
