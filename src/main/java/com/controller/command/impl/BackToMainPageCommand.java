@@ -1,4 +1,4 @@
-package com.wookie.devteam.controller.command.impl;
+package com.controller.command.impl;
 
 import java.io.IOException;
 

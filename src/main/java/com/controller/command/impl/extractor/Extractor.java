@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.controller.command.impl.extractor;
+package com.controller.command.impl.extractor;
 
 import com.wookie.devteam.constants.ErrorMessages;
 

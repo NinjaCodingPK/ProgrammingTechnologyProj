@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.controller.command.impl;
+package com.controller.command.impl;
 
 import com.wookie.devteam.constants.Attributes;
 import com.wookie.devteam.controller.Controller;
