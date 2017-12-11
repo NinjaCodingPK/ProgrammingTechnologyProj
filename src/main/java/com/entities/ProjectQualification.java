@@ -3,14 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities;
+package com.entities;
 
 import java.util.Objects;
 
-/**
- *
- * @author wookie
- */
+
 public class ProjectQualification {
     private Project project;
     private Qualification qualification;

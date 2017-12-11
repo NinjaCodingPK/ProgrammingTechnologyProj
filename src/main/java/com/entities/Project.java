@@ -3,16 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities;
+package com.entities;
 
 import java.math.BigDecimal;
 import java.util.Date;
 import java.util.Objects;
 
-/**
- *
- * @author wookie
- */
+
 public class Project {
     private Integer id;
     private String name;

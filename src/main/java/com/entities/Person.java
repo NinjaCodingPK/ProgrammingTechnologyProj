@@ -3,16 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.wookie.devteam.entities;
+package com.entities;
 
 import java.sql.Date;
 import java.util.Objects;
 
-
-/**
- *
- * @author wookie
- */
 public class Person {
     private Integer id;
     private String name;
@@ -26,10 +21,6 @@ public class Person {
     private String password;
     private String email;
 
-    /**
-     * Calculates and age of a person using it's birth date.
-     * @return age of a person.
-     */
     public long getAge() {
         final int dateKoef = 90015036;
         final int daysInYear = 365;
